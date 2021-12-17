@@ -10,14 +10,6 @@ public class Run {
 		String address="경기도 시흥시";
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
