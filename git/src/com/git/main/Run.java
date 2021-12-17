@@ -8,16 +8,8 @@ public class Run {
 		
 		int age=19;
 		String address="경기도 시흥시";
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		double height=180.5;
+	
 	}
 
 }
